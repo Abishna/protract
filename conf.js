@@ -1,4 +1,4 @@
-//Register protractor-jasmine2-html-reporter in jasmine
+//Register protractor-jasmine2-html-reporter in Jas
  var HtmlScreenshotReporter = require('C:/Users/sys-user/node_modules/protractor-jasmine2-html-reporter');
  var today = new Date(),
  timeStamp =  today.getDate() +'-'+today.getMonth() + 1 + '-' + today.getFullYear() + '-' + today.getHours() + 'h-' + today.getMinutes() + 'm';
